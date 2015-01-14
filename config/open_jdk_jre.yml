@@ -20,7 +20,7 @@
 repository_root: "{default.repository.root}/openjdk/{platform}/{architecture}"
 version:
   detect_compiled: enabled
-  8: 1.8.0_+
+  8: 1.8.0_11
   7: 1.7.0_+
   6: 1.6.0_+
 memory_sizes:
